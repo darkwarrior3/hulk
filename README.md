@@ -6,6 +6,7 @@ Hulk.py is one of the best DDoS tools which is written in python.
 Installation commands:-
 pkg install python2
 git clone "link"
+chmod +x hulk.py
 
 Usage:- 
 python2 hulk.py "link"
