@@ -1,5 +1,5 @@
 Subscribe our channel FemurTech
-Link:- tinyurl.com/femurtech
+Link:- http://www.tinyurl.com/femurtech
 
 This contains a file named hulk.py
 Hulk.py is one of the best DDoS tools which is written in python.
