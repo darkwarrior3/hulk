@@ -11,7 +11,7 @@ chmod +x hulk.py
 Usage:- 
 python2 hulk.py "link"
 Example:- python2 hulk.py http://www.kalkaeducationalsociety.com
-Is result come RESPONSE CODE 500 then your DoS attack is successful.
+If the result come RESPONSE CODE 500 then your DoS attack is successful.
 Handshake!!
 But some websites blocks you ip which may also show RESPONSE CODE 500
 Happy DoSing !
